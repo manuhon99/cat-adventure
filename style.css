@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.botao-tela-inicial{
+  font-family: 'VT323';
+  text-align: center;
+  padding: .5rem .7rem;
+  font-size: 1.25rem;
+  letter-spacing: 0.25rem;
+  box-shadow: 2px 2px 0 1px white;
+  text-transform: uppercase;
+  background-color: 250;
+  border: none;
+  border-radius: 0.75rem;
+  color: black;
+}
+
+.botao-tela-inicial:hover{
+  background-color: white;
+  box-shadow: 2px 2px 0px 1px white;
+}
+
+.botao-tela-prologo{
+  font-family: 'VT323';
+  text-align: center;
+  padding: .5rem .4rem;
+  font-size: 1.25rem;
+  letter-spacing: 0.25rem;
+  box-shadow: 2px 2px 0 1px white;
+  text-transform: uppercase;
+  background-color: 250;
+  border: none;
+  border-radius: 0.75rem;
+  color: black;
+}
